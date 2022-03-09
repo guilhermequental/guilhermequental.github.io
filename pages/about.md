@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-## About
+### About
 This portfolio includes the design process of 3 projects developed for the Google UX Design Certificate Program, from beginning to end, including:
 
 * Empathizing with users.
