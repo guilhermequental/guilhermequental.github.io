@@ -12,7 +12,7 @@ This portfolio includes the design process of 3 projects developed for the Googl
 * Coming up with ideas for design solutions.
 * Creating wireframes, mockups, and prototypes.
 * Testing designs through usability studies.
-* Iterating on design based on feedback. 
+* Iterating on designs based on feedback. 
 
 All projects were developed on digital design tools like Figma and Adobe XD.
 
