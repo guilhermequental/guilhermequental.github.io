@@ -12,7 +12,6 @@ title: 'Google UX Design Certificate - Portfolio Project 3'
   }
   .responsive-google-slides iframe {
     border: 0;
-    position: absolute;
     top: 0;
     left: 0;
     width: 100% !important;
