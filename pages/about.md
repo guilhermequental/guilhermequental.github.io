@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+This portfolio comprehends the design process of 3 projects developed for the Google UX Design Certificate Program, from beginning to end, including: Empathizing with users; Defining user pain points; Coming up with ideas for design solutions; Creating wireframes, mockups, and prototypes; Testing designs through usability studies and Iterating on designs based on feedback. All projects were developed on digital design tools like Figma and Adobe XD.
