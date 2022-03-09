@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'Google UX Design Certificate - Portfolio Project 1'
 ---
 
 <style>
