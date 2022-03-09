@@ -21,5 +21,5 @@ title: 'Google UX Design Certificate - Portfolio Project 2'
 </style>
 
 <div class="responsive-google-slides">
-  <iframe src=""https://docs.google.com/presentation/d/e/2PACX-1vSySbOz90LAaK9AJC8ML-cZe3HLRrmK5x6mrUK54wSFoFx1kiL5SGqqMX6vI4ruvwEc4mXCl5vpin52/embed"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSySbOz90LAaK9AJC8ML-cZe3HLRrmK5x6mrUK54wSFoFx1kiL5SGqqMX6vI4ruvwEc4mXCl5vpin52/embed"></iframe>
 </div>
