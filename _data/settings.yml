@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Google UX Design Certificate - Portfolio Project 1', url: 'proj-1'}
+- {name: 'Google UX Design Certificate - Portfolio Project 1', url: 'proj-4'}
 - {name: 'Google UX Design Certificate - Portfolio Project 2', url: 'proj-2'}
 - {name: 'Google UX Design Certificate - Portfolio Project 3', url: 'proj-3'}
 #- {name: 'Project Four',  url: 'proj-4'}
