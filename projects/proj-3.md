@@ -6,7 +6,6 @@ title: 'Google UX Design Certificate - Portfolio Project 3'
 
 <style>
   .responsive-google-slides {
-    position: relative;
     padding-bottom: 56.25%; /* 16:9 Ratio */
     height: 0;
     overflow: hidden;
